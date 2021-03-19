@@ -1,5 +1,7 @@
 ### Hi there 👋
-I’m currently studying web development and it's much harder than I thought.
+I’m currently studying full stack web development and it's been quite a challenge, but it's amazing to see the huge online community helping each other out. 
+
+I enjoy beaches, rainforest, yoga and can't wait to travel again 
 
 
 <!--
