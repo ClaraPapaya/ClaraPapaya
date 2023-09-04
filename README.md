@@ -1,6 +1,5 @@
 ### Hi there 👋
-I recently received my full stack web development certificate and I am looking forward to continously learn more about the field. It's amazing to see the huge online community helping each other out. 
-Currently I'm volunteering to create a new web app for the non-profit organizaton [tupu](https://www.tupu.io/).
+I recently received my full stack web development certificate and I am looking forward to continously learn more about the field. It's amazing to see the huge online community helping each other out.
 So far I've learned to work with `HTML`, `CSS`, `JavaScript`, `PostgreSQL`, `Node.js`, `Express`, `MongoDB`, `React`, `React Native`, `Angular`, `Chakra` and `TypeScript`.
 
 I enjoy beaches, rainforest, yoga and can't wait to travel again soon.
